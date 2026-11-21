@@ -118,4 +118,4 @@ All technical assets and deployments managed within the TAVARDT New Zealand peri
 * Corporate Portal: [https://ag.tavardt.com/nz/](https://ag.tavardt.com/nz/)
 * Technical Tools: [https://tools.tavardt.com/nz/](https://tools.tavardt.com/nz/)
 * Official Electronic Mail: [contact@tavardt.com](mailto:contact@tavardt.com)
-* Direct Client Intake: [Direct Technical Consultation with Sofia (WhatsApp)](https://wa.me/5584987721775?text=Hello%20Sofia,%20I%20am%20contacting%20you%20via%20the%20TAVARDT%20New%20Zealand%20GitHub%20organisation%20regarding%20a%20technical%20inquiry.)
+* Direct Client Intake: [Direct Contact with Sofia (WhatsApp)](https://wa.me/5584987721775?text=Hello%20Sofia,%20I%20am%20contacting%20you%20via%20the%20TAVARDT%20New%20Zealand%20GitHub%20organisation%20regarding%20a%20technical%20inquiry.)
